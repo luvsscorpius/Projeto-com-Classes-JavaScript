@@ -1,0 +1,1 @@
+Este é um projeto desenvolvido com classes em JavaScript para que eu possa treinar um pouco mais sobre esses conceitos.
